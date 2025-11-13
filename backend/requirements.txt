@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+# celery
+# redis
+openai-whisper
+python-multipart
+pydantic
+sqlalchemy
